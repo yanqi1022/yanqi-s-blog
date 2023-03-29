@@ -2,4 +2,4 @@
 title: Welcome to my blog
 ---
 
-## This is my first blog website
+## This is Yanqi's personal technical blog
